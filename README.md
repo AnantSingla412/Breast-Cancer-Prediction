@@ -1,6 +1,3 @@
-Here’s your content formatted cleanly and professionally in **Markdown (`README.md`)** style — ready to copy and paste directly into your GitHub repository 👇
-
----
 
 # 🧠 AI Web Application — Local & AWS Deployment Guide
 
@@ -52,7 +49,7 @@ Breast-Cancer-Prediction/
 5. **Open your browser** and go to:
 
    ```
-   http://127.0.0.1:5000
+   http://localhost:5000
    ```
 
 ---
